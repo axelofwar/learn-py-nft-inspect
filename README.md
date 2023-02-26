@@ -4,7 +4,7 @@ Class: Decode
 Created: February 25, 2023 4:15 PM
 Materials: https://discord.gg/f2C9tqt5gp
 Type: Tutorial
-
+For web version w/ images: https://www.notion.so/axelofwar/Learn-with-Decode-Day-1-cbe607bf786d4edf8abcbba4cc3da2e3?pvs=4
 # Welcome to Decode’s coding Journey!
 
 My name is Axelofwar and I’m extremely excited to welcome you to Day 1 - Learn Collaborative Development! There are a ton of languages and frameworks used in modern day development that can make the coding landscape feel very broad and sometimes even scary. Before we dive into any of those, there are some basics to understand about the coding environment and working with other developers on a project. We’ll start with some of these common tools that enable any developer to contribute - regardless of language or framework.
